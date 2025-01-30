@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezn Zaidi</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Dudo - Team Management Project](https://github.com/TalalMajeed/Dudo-Frontend)
+- 🔭 I’m currently working on [Dudo - Team Management Project](https://github.com/EznXadee/Solidio-AI)
 
 - 🌱 I’m currently learning **Kubernetes, Kafka, Machine Learning**
 
